@@ -114,101 +114,6 @@ console.log(jointvalue(["ravi","raushan","sheriyans" ,"kabadfm","kaka"]))
 
 // what is high order function
 
-//
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //question-11
 
 //map :-map is using  for each array elements to perform some specific thing then we use map function.
@@ -216,7 +121,7 @@ console.log(jointvalue(["ravi","raushan","sheriyans" ,"kabadfm","kaka"]))
 var Array =[12,34,44,3234,234,432,42342,324]
 
 var ans = Array.map(function(value){
-    return "javascript code"
+    return "javascript codee"
 })
 console.log(ans)
 
